@@ -1,0 +1,6 @@
+Total Sentences: 18348
+Total Words: 225286
+Total Characters (excluding spaces): 1209951
+Average Sentence Length (words per sentence): 12.28
+Average Word Length (characters per word): 5.37
+Type/Token Ratio (TTR): 0.20
